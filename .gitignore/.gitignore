@@ -34,4 +34,5 @@ sienna.usalis@elwoodschool.com
 sophia.facchina@elwoodschool.com
 tyler.rolenc@elwoodschool.com
 vai.stulga@elwoodschool.com
-run gam csv mail.csv user ~mail delete messages query rfc822msgid:CAAGH4UxoVGQgrgjK9uqnngYjRbW2SFhz6sisU8yV5750CquVXw@mail.gmail.com doit
+run gam csv mail.csv user ~mail delete messages query rfc822msgid:001a114520eefcf4f305593f9a0d@google.com doit
+
